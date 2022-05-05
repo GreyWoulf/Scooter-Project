@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T19:30:30.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="vJX3RgYDI1jSGFzBUfdY" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-05T19:35:18.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="LD6T7UgiGz4aNxB6XEQt" version="18.0.0" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
     <mxGraphModel dx="1597" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -46,11 +46,11 @@
         <mxCell id="TM3YVF8j037lLueQWBm--59" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.112;entryY=0.396;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;strokeColor=none;endArrow=none;endFill=0;" edge="1" parent="1" source="TM3YVF8j037lLueQWBm--8" target="TM3YVF8j037lLueQWBm--49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TM3YVF8j037lLueQWBm--61" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.017;entryY=0.712;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="TM3YVF8j037lLueQWBm--8" target="TM3YVF8j037lLueQWBm--49">
+        <mxCell id="TM3YVF8j037lLueQWBm--62" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.03;entryY=0.465;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;endArrow=none;endFill=0;strokeColor=default;" edge="1" parent="1" source="TM3YVF8j037lLueQWBm--8" target="TM3YVF8j037lLueQWBm--49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TM3YVF8j037lLueQWBm--8" value="Returning User" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="90" width="140" height="70" as="geometry" />
+          <mxGeometry x="290" y="120" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TM3YVF8j037lLueQWBm--11" value="Scooter Battery Level" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="149.99999999999977" y="450" width="140" height="70" as="geometry" />
